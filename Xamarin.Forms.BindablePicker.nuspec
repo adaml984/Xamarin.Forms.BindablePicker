@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.Forms.BindablePicker</id>
+    <version>1.0.1</version>
+    <title>Xamarin.Forms.BindablePicker library</title>
+    <authors>adaml984</authors>
+    <owners>adaml984</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/adaml984/Xamarin.Forms.BindablePicker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Forms Picker component with support for bindings</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin Xamarin.Forms Picker Binding BindablePicker</tags>
+  </metadata><files>
+	<file src="Xamarin.Forms.BindablePicker\bin\Release\Xamarin.Forms.BindablePicker.dll" target="lib" />
+	<file src="Xamarin.Forms.BindablePicker.Android\bin\Release\Xamarin.Forms.BindablePicker.Android.dll" target="lib\MonoAndroid500" />
+	<file src="Xamarin.Forms.BindablePicker.iOS\bin\Release\Xamarin.Forms.BindablePicker.iOS.dll" target="lib\Xamarin.iOS10" />
+	<file src="Xamarin.Forms.BindablePicker.UWP\bin\Release\Xamarin.Forms.BindablePicker.UWP.dll" target="lib\UAP10" />
+  </files>
+</package>
