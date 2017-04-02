@@ -15,8 +15,5 @@
     <tags>Xamarin Xamarin.Forms Picker Binding BindablePicker</tags>
   </metadata><files>
 	<file src="Xamarin.Forms.BindablePicker\bin\Release\Xamarin.Forms.BindablePicker.dll" target="lib" />
-	<file src="Xamarin.Forms.BindablePicker.Android\bin\Release\Xamarin.Forms.BindablePicker.Android.dll" target="lib\MonoAndroid500" />
-	<file src="Xamarin.Forms.BindablePicker.iOS\bin\Release\Xamarin.Forms.BindablePicker.iOS.dll" target="lib\Xamarin.iOS10" />
-	<file src="Xamarin.Forms.BindablePicker.UWP\bin\Release\Xamarin.Forms.BindablePicker.UWP.dll" target="lib\UAP10" />
-  </files>
+	</files>
 </package>
