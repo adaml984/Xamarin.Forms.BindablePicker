@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Xamarin.Forms.BindablePicker</id>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <title>Xamarin.Forms.BindablePicker library</title>
     <authors>adaml984</authors>
     <owners>adaml984</owners>
