@@ -13,7 +13,12 @@
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Xamarin Xamarin.Forms Picker Binding BindablePicker</tags>
-  </metadata><files>
+	<dependencies>
+        <dependency id="Xamarin.Forms" version="2.3.3.180" />
+    </dependencies>
+	
+  </metadata>
+  <files>
 	<file src="Xamarin.Forms.BindablePicker\bin\Release\Xamarin.Forms.BindablePicker.dll" target="lib" />
-	</files>
+  </files>
 </package>
