@@ -8,7 +8,7 @@ namespace SampleApp
 		public MainPageViewModel()
 		{
 			Items = new ObservableCollection<SampleObject>();
-			for (int i = 0; i < 10; i++)
+			for (int i = 0; i < 100; i++)
 			{
 				Items.Add(new SampleObject() { Id = i, Name = i.ToString() });
 			}

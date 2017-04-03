@@ -56,7 +56,7 @@ namespace Xamarin.Forms.BindablePicker
 
 		private static void OnItemsSourceChanged(BindableObject bindable, object oldValue, object newValue)
 		{
-			var xfPicker = bindable as BindablePicker;
+			var xfPicker = bindable.As<BindablePicker>();
 			if (xfPicker == null || xfPicker.ItemsSource == null)
 				return;
 			HandleObservableCollection(xfPicker, oldValue, newValue);
